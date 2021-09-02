@@ -1,129 +1,55 @@
-<h2>नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+# Hi there, I'm Luis Fernando <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol-p-singh/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-👇 Hit in your console or terminal to connect with me.
+## I'm a Front End Engineer at [@cornershopp](https://pre-web.cornershopapp.com/)
 
-```bash
-npx anmol
-```
-**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "Swift", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    technologies: {
-        backEnd: {
-            js: ["Node", "Fastify", "Express", "SuiteScript"],
-        },
-        mobileApp: {
-            native: ["Android Development", "IOS Development"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Ios Mobile App Development",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+- 👨‍💻 I’m working on web development technologies like JavaScript, React, TypeScript, Angular etc.
+- 📚 I’m currently learning everything about Frontend technologies 💎
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- ⚡ Fun fact: I love to play base ball ⚾ and volley ball 🏐.
 
 ---
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1044-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-874599%20lines%20of%20code-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 164 Contributions in the Year 2021
- > 
-> 📦 203.0 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 30 Public Repositories 
- > 
-> 🔑 16 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.0% 
-🌆 Daytime    165 commits    █████████░░░░░░░░░░░░░░░░   39.01% 
-🌃 Evening    136 commits    ████████░░░░░░░░░░░░░░░░░   32.15% 
-🌙 Night      67 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.84%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.22% 
-Tuesday      37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.75% 
-Wednesday    64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.13% 
-Thursday     65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.37% 
-Friday       58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.71% 
-Saturday     56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.24% 
-Sunday       104 commits    ██████░░░░░░░░░░░░░░░░░░░   24.59%
-
-```
 
 
-📊 **This Week I Spent My Time On** 
+### Languages and Tools 🛠 
 
-```text
-⌚︎ Time Zone: Asia/Kolkata
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
+![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white)
+<br/>
 
-💬 Programming Languages: 
-XML                      13 mins             █████████░░░░░░░░░░░░░░░░   39.13% 
-JavaScript               9 mins              ███████░░░░░░░░░░░░░░░░░░   28.79% 
-Python                   8 mins              ██████░░░░░░░░░░░░░░░░░░░   25.41% 
-SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   3.31% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.45%
+---
 
-🔥 Editors: 
-WebStorm                 22 mins             █████████████████░░░░░░░░   68.83% 
-PyCharm                  9 mins              ███████░░░░░░░░░░░░░░░░░░   27.87% 
-DataGrip                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   3.31%
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-💻 Operating System: 
-Mac                      33 mins             █████████████████████████   100.0%
+### Spotify Playing 🎧
 
-```
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/1285948528)
 
-**I Mostly Code in Swift** 
+---
 
-```text
-Swift                    15 repos            ███████░░░░░░░░░░░░░░░░░░   30.61% 
-Vue                      8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.33% 
-JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.24% 
-Java                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.16% 
-Dart                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.16%
+[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoox)](https://open.spotify.com/user/1285948528)
 
-```
+---
 
+### Connect with me:
 
-**Timeline**
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-fernando-fern%C3%A1ndez-cruz-056054168/)
 
-![Chart not found](https://raw.githubusercontent.com/anmol098/anmol098/master/charts/bar_graph.png) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/feeernndo/)
 
-
- Last Updated on 02/09/2021
-<!--END_SECTION:waka-->
-
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
