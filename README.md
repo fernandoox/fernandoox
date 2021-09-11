@@ -7,7 +7,7 @@
 - 👨‍💻 I’m working on web development technologies like JavaScript, React, TypeScript, Angular etc.
 - 📚 I’m currently learning everything about Frontend technologies 💎
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play base ball ⚾ and volley ball 🏐.
+- ⚡ Fun fact: I love to play baseball ⚾ and volleyball 🏐.
 
 ---
 
