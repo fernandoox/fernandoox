@@ -45,7 +45,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-fernando-fern%C3%A1ndez-cruz-056054168/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/feeernndo/)
 
 ---
-<a href="https://app.daily.dev/fernandoox52"><img align="right" src="https://api.daily.dev/devcards/d5e019fcf33a4a8aadbe2f2031ca7c27.png?r=ms8" width="20" alt="Luis Fernando Fz's Dev Card"/></a>
+<a href="https://app.daily.dev/fernandoox52"><img align="right" src="https://api.daily.dev/devcards/d5e019fcf33a4a8aadbe2f2031ca7c27.png?r=ms8" width="220" alt="Luis Fernando Fz's Dev Card"/></a>
 
 [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoox)](https://open.spotify.com/user/1285948528)
 
