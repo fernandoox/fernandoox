@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Front End Engineer at [@Uber](https://www.uber.com/)
+## I'm a Front End Engineer
 
 - 👨‍💻 I’m working on web development technologies like JavaScript, React, TypeScript, Angular etc.
 - 📚 I’m currently learning everything about Frontend technologies 💎
